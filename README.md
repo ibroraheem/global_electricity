@@ -39,7 +39,7 @@ The analysis includes:
 
 1. **Correlation Analysis**:
    - Generated a heatmap to visualize the correlation between different years.
-   ![Correlation Heatmap](images/corellation.png)
+   ![Correlation Heatmap](images/correlation.png)
 
 ## How to Use
 
