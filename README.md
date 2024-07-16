@@ -45,11 +45,11 @@ The analysis includes:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/electricity-statistics-analysis.git
+    git clone https://github.com/ibroraheem/global_electricity.git
     ```
 2. Navigate to the repository:
     ```bash
-    cd electricity-statistics-analysis
+    cd global_electricity`
     ```
 3. Install the required libraries:
     ```bash
