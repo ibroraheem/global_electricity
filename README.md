@@ -23,7 +23,7 @@ The analysis includes:
 
 1. **Total Electricity Statistics Over the Years**:
    - Visualized the total electricity statistics from 1980 to 2021.
-   ![Total Electricity Statistics](images/total_electricity.png)
+   ![Total Electricity Statistics](images/total_electricity_stats.png)
 
 2. **Top 10 Countries by Electricity Statistics**:
    - Visualized the top 10 countries by electricity statistics for the years 1980 and 2020.
